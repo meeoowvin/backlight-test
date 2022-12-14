@@ -1,0 +1,22 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      [
+        "TOKENS",
+        ["tokens"]
+      ],
+      [
+        "COMPONENTS",
+        ["button", "upload", "rangePicker", "textField", "searchbar"]
+      ],
+      [
+        "INFRASTRUCTURE",
+        ["sd-input", "doc-layout", "types"]
+      ]
+    ]
+  },
+  "doc": {
+    "markdownEngine": "vue"
+  }
+}
